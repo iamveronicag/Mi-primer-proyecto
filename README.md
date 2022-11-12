@@ -1,2 +1,2 @@
 # Mis-primeros-proyectos
-Mis proyectos de Oradores y Bootstrap para Codo a Codo
+Mis proyectos para Codo a Codo
